@@ -1,4 +1,5 @@
-print("
+{
+    "name": "mayyykkk",
     "downloads": [
         {
             "title": "Undisputed [v 10515249] (2025) PC | RePack от mayyykkk",
@@ -7,4 +8,4 @@ print("
             ],
             "fileSize": "40 GB",
             "uploadDate": "2025-09-04T00:00:00.000Z"
-        },")
+        },
